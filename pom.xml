@@ -5,7 +5,7 @@
 
 	<groupId>com.pawar.inventory</groupId>
 	<artifactId>authentication-properties</artifactId>
-	<version>Dev_v2.1</version>
+	<version>Release_v2.0</version>
 	<packaging>jar</packaging>
 	<name>authentication-properties</name>
 	<url>http://maven.apache.org</url>
